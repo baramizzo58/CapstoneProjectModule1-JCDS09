@@ -1,2 +1,5 @@
 # CapstoneProjectModule1-JCDS09
-Capstone Project Module 1 - Noor Kharismawan Akbar
+
+Name: Noor Kharismawan Akbar
+Student ID: JCDSOL-009-038
+Case Study: Yellow pages (data kontak telepon)
