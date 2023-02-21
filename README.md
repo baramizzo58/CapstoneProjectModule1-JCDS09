@@ -1,4 +1,4 @@
-# CapstoneProjectModule1-JCDS09
+# CapstoneProjectModule1-JCDS09 Purwadhika
 
 Name: Noor Kharismawan Akbar
 Student ID: JCDSOL-009-038
